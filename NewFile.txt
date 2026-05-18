@@ -1,0 +1,21 @@
+I want you to generate a fully functional Git Gui Client electron app that works like git kraken or even better and make it thematically (UI) like Crusady, Medieval, Dark Souls.
+
+
+
+ Things it needs to have: 
+
+
+
+- I prefer desktop app, but with necessary libraries etc. in the same folder to run as portable without installs. 
+
+- The theme should only affect the GUI style, not the text, because i want to use the standard git language 
+
+- The theme i prefer for medieval, crusady is with a combo of white, red, black colors 
+
+- It should be fully functional not like a demo, where i can set my repository, track changes, and do git commands. 
+
+- The name of the App should be GitSouls
+
+
+
+Give me the files at the end
